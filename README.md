@@ -20,6 +20,7 @@ Software Engineer @ PG Analytics
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react.png"/> 
+<img width="64" height="64" src="https://img.icons8.com/nolan/64/angularjs.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/angular.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/rxjs"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/ngrx.png"/> 
