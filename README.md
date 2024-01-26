@@ -9,9 +9,8 @@ Software Engineer @ PG Analytics
 - 📫 How to reach me :
 <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/senthamaraikannanpandi/)
 - 😄 Pronouns: Techie
-- ⚡ Fun fact: I know Tamil.
-- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVXHYmFar7yArWvkcjxWXuQ)
-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVXHYmFar7yArWvkcjxWXuQ)
+- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCTxOP1IyUjJ1Sk2pUmv5UCg)
+- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTxOP1IyUjJ1Sk2pUmv5UCg)
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
